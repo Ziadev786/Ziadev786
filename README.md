@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- <img width='20px' src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"/>
+  <img width='40px' src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"/>
+   <img width='40px' src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png"/>
 
